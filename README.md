@@ -15,5 +15,5 @@
   Feel free to explore my projects and experiments.
   <br>
   <br>
-  <img align="center" width="350" src="images/retro-space-by-nick-fairbanks.gif" >
+  <img src="images/retro-space-by-nick-fairbanks.gif" align="center" width="350">
 </div>
